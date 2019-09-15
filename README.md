@@ -1,5 +1,5 @@
 # Sudoku
-<b>ALGORITHM</b></br>
+<b>ALGORITHM - CONSTRAINT SATISFACTION</b></br>
 Given a particular state of the board. It verifies if the sudoku can be solved with a given state or not.
 My sudoku GUI gives two flexibility to the user. 
 1.	Enter the sudoku puzzle manually and then click on the solve button.
